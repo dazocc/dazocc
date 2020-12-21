@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 **Business Tools**
 
-<code><img height="32" src="image/notion.png" alt="Notion"/></code>
+<code>
+  <a href="https://www.notion.so" target="_blank">
+    <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/>
+  </a>
+</code>
 
 
 <br/>
